@@ -79,6 +79,14 @@ public class smallProjects {
 //        System.out.println("The sum of the numbers is: " + sum);
 
 
+            // Power in Java
+//        System.out.print("Enter the base: ");
+//        double b = in.nextDouble();
+//        System.out.print("Enter the exponent: ");
+//        double e = in.nextDouble();
+//        double result = Math.pow(b,e);
+//        System.out.println("Power to base " + b +" and exponent " + e + " is " + result );
+
 
         }
 
